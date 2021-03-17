@@ -1,0 +1,8 @@
+https://techbeacon.com/app-dev-testing/8-open-source-tools-will-lift-your-api-game
+
+https://github.com/OpenAPITools/openapi-generator
+
+java -jar openapi-generator-cli-5.0.1.jar generate \
+   -i  M:/tmp/test.yaml \
+   -g java \
+   -o M:/tmp/test
